@@ -1,4 +1,4 @@
-## Olá, sou Alexandre, programador iniciante e futuro dev's fullstack!
+## Olá, sou Alexandre, programador iniciante e futuro dev fullstack!
 <hr>
 <div align="center">
   <a href="https://github.com/alexandrekosh">
