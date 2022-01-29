@@ -22,4 +22,4 @@
  
   ![Snake animation](https://github.com/alexandrekosh/alexandrekosh/blob/output/github-contribution-grid-snake.svg)
  
-  :black_joker: Obrigado por Visitar!
+  :black_joker: **Obrigado por Visitar!**
