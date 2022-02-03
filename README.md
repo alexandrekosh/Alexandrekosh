@@ -2,7 +2,7 @@
 ## 👾 Hello World, I am Alexandre !
 <div align="center">
   <a href="https://github.com/alexandrekosh">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandrekosh&showingicons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandrekosh&compactlayout=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrekosh&layout=showingicons&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
