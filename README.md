@@ -1,12 +1,6 @@
 
 ## (⌐■_■)☕ Hello World, I am Alexandre !
 
-<p align="center">
-    <a href="https://github.com/alexandrekosh/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Suraj's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandrekosh&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" width = "60%" />
-    </a>
-</p>
-
 <div align="center">
   <a href="https://github.com/alexandrekosh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandrekosh&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 
