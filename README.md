@@ -15,6 +15,7 @@
   <img align="center" alt="kosh-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="kosh-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="kosh-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img aling="center" alt="kosh-git" height="30" wisth="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"" />
   <img align="right" alt="kosh-gif" height="80" style="border-radius:50px;" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/powerup.gif">
 </div>
   
