@@ -3,9 +3,14 @@
 
 <div align="center">
   <a href="https://github.com/alexandrekosh">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandrekosh&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 
   
+   <a href="https://github.com/alexandrekosh/github-readme-stats">
+      <img alt="kosh Github Stats" src="https://github-readme-stats.vercel.app/api?username=alexandrekosh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&line_height=27" />
+      <img alt="kosh Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrekosh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&line_height=27" />
+    </a>
+    
 </div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="kosh-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="kosh-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
