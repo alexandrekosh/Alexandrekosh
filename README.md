@@ -16,9 +16,8 @@
 
   <img align="center" alt="kosh-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
-  <img aling="center" alt="kosh-git" height="30" wisth="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"" />
+  <img aling="center" alt="kosh-git" height="30" wisth="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" />
 
-  <img align="right" alt="kosh-gif" height="80" style="border-radius:50px;" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/powerup.gif">
 </div>
   
   ##
@@ -32,8 +31,8 @@
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
  </a>
 
-  <a href="link" target="_blank">
-    <img src="https://www.linkedin.com/in/alexandre-medeiros-64255522b/" target="_blank">
+  <a href="https://www.linkedin.com/in/alexandre-medeiros-64255522b/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
  
   ![Snake animation](https://github.com/alexandrekosh/alexandrekosh/blob/output/github-contribution-grid-snake.svg)
