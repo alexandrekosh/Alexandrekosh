@@ -7,6 +7,9 @@
    </a>
 </div>
 
+<br>
+   
+<br>
 
 ## Tecnologias que eu utilizo: 
 <div>
@@ -14,8 +17,6 @@
   <img alt="kosh-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img alt="kosh-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img alt="kosh-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" />
- <br>
-
 </div>
   
   #
@@ -24,9 +25,12 @@
   <a href="https://www.instagram.com/xande.hey/">
       <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
+   
   <a href="https://www.linkedin.com/in/alexandre-medeiros-64255522b/">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
+   
  <a href="https://discord.com/channels/Koshy#8625">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
  </a>
+</div>
