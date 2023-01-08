@@ -1,17 +1,14 @@
 
 ## (⌐■_■)☕ Hello World
 
-<div display="inline_block">
+<div display="inline_block" margin="auto">
    <a href="https://github.com/alexandrekosh/github-readme-stats">
       <img height="165em" src="https://github-readme-stats.vercel.app/api?username=alexandrekosh&show_icons=true&theme=react"/>
    </a>
 </div>
 
 <br>
-   
-<br>
 
-## Tecnologias que eu utilizo: 
 <div>
   <img alt="kosh-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img alt="kosh-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
