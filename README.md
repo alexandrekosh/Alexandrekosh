@@ -13,7 +13,7 @@
   <img align="center" alt="kosh-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="kosh-bootstrap" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">  
   <img align="center" alt="kosh-jquery" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
-  <img align="right" alt="kosh-pic" height="150" style="border-radius:50em;" src="https://i.pinimg.com/originals/05/aa/c6/05aac6954aea503fd8fafab54f68728e.gif">
+  <img align="right" alt="kosh-pic" height="150" style="border-radius:50em;" src="https://i.pinimg.com/564x/cf/48/28/cf48281c9e4e7801f594bf471aa2744c.jpg">
 </div>
   
   ##
