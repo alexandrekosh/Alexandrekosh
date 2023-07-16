@@ -1,4 +1,6 @@
-## (⌐■_■)  Hello World 
+## 🔹 Hello World, i'm Alexandre 
+
+>  Tenho 19 anos, atualmente estudando desenvolvimento web e a procura da minha primeira oportunidade como dev 📘
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=alexandrekosh&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
@@ -16,18 +18,18 @@
 <img align="right" alt="kosh-pic" height="180" style="border-radius:50em;" src="https://i.pinimg.com/originals/29/5d/ba/295dba78f8e4148215611aab4e03f93a.gif"> 
 </div>
   
-  ##
+ ##
  
 <div> 
   <a href="https://instagram.com/by.xande" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
- 	<a href="https://discord.com/channels/Koshy#8625" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
-  </a> 
    <a href="https://www.linkedin.com/in/alexandre-medeiros-64255522b/" target="_blank">
      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
    </a> 
+ 	<a href="https://discord.com/channels/Koshy#8625" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+  </a> 
   <a href = "mailto:alexandre.koshy@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
