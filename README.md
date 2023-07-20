@@ -15,7 +15,7 @@
   <img align="center" alt="kosh-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />       
   <img align="center" alt="kosh-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">  
   <img align="center" alt="kosh-jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
-<img align="right" alt="kosh-pic" height="180" style="border-radius:50em;" src="https://i.pinimg.com/originals/29/5d/ba/295dba78f8e4148215611aab4e03f93a.gif"> 
+<img align="right" alt="kosh-pic" height="180" style="border-radius:30;" src="https://i.pinimg.com/originals/29/5d/ba/295dba78f8e4148215611aab4e03f93a.gif"> 
 </div>
   
  ##
@@ -35,5 +35,4 @@
   </a>
   
    ![Snake animation](https://github.com/alexandrekosh/alexandrekosh/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
