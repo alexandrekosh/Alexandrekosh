@@ -1,12 +1,12 @@
-## 🔹 Hello World, i'm Alexandre 
+## 🔹 Hello World, i'm Alexandre👋
 
   - Tenho 19 anos
-  -  Atualmente estudando desenvolvimento web
-  -  A procura da minha primeira oportunidade como dev 📘
+  - Atualmente estudando desenvolvimento web📘
+  - Em procura da minha primeira oportunidade como dev 
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=alexandrekosh&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrekosh&layout=compact&theme=react"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=alexandrekosh&show_icons=true&bg_color=00000000"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrekosh&layout=compact&bg_color=00000000"/>
 </div>
   
 <div style="display: inline_block"><br>
